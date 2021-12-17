@@ -1,6 +1,6 @@
-# NTUST_HW
+# B10802217_HW
 
-- National Taiwan University of Science and Technology
+- NTUST
 
 - Course: Internet Technologies and Applications
 

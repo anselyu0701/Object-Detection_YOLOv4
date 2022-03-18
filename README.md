@@ -1,10 +1,4 @@
-# B10802217_Internet and Application_HW3
-
-- NTUST
-
-- Course: Internet Technologies and Applications
-
-- 四電子三丙 B10802217 呂長恩
+# Internet and Application_HW3
 
 - yolov4_b10802217.py 為 PYTHON 語言的程式編寫
 
